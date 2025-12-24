@@ -1,0 +1,3 @@
+[submodule "primeros-ejercicios"]
+	path = primeros-ejercicios
+	url = git@github.com:luisclaret/primeros-ejercicios.git
