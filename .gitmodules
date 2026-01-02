@@ -1,3 +1,6 @@
 [submodule "primeros-ejercicios"]
 	path = primeros-ejercicios
 	url = git@github.com:luisclaret/primeros-ejercicios.git
+[submodule "ejercicios-2"]
+	path = ejercicios-2
+	url = git@github.com:luisclaret/ejercicios-2.git
