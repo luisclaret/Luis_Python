@@ -4,3 +4,6 @@
 [submodule "ejercicios-2"]
 	path = ejercicios-2
 	url = git@github.com:luisclaret/ejercicios-2.git
+[submodule "ejercicios-3"]
+	path = ejercicios-3
+	url = git@github.com:luisclaret/ejercicios-3.git
