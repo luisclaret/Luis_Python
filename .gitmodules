@@ -1,5 +1,5 @@
-[submodule "primeros-ejercicios"]
-	path = primeros-ejercicios
+[submodule "ejercicios-1"]
+	path = ejercicios-1
 	url = git@github.com:luisclaret/primeros-ejercicios.git
 [submodule "ejercicios-2"]
 	path = ejercicios-2
@@ -7,3 +7,6 @@
 [submodule "ejercicios-3"]
 	path = ejercicios-3
 	url = git@github.com:luisclaret/ejercicios-3.git
+[submodule "ejercicios-4"]
+	path = ejercicios-4
+	url = git@github.com:luisclaret/ejercicios-4.git
